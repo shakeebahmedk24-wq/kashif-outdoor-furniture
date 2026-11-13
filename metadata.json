@@ -1,0 +1,6 @@
+{
+  "name": "Noorani Furniture",
+  "description": "Bespoke Interior Furnishing, Carpentry & Custom Upholstery in Sharjah, UAE. Curtains, blinds, luxury carpets, gypsum decor, and turnkey fit-outs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
